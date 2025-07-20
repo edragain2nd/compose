@@ -1,0 +1,10 @@
+{
+  "name": "edragain2nd/compose",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "repository": "https://github.com/edragain2nd/compose.git",
+  "license": "Apache-2.0",
+  "keywords": ["text processing","character composition"],
+  "description": "Composes two Unicode characters into a single precomposed character if possible.",
+  "source": "src"
+}
